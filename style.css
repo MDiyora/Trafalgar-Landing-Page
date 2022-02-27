@@ -207,13 +207,13 @@ rect {
   position: absolute;
 }
 
-.services_background_2 {
+/*.services_background_2 {
   width: 100vw;
   height: 619px;
   background: url(./images/dots.png) no-repeat;
   right: 0;
   position: absolute;
-}
+}*/
 
 .service_item {
   width: 350px;
@@ -514,7 +514,7 @@ rect {
 }
 
 .article_card img {
-	border-radius: 20px;
+	border-radius: 20px 20px 0px 0px;
 }
 
 footer {
